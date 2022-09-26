@@ -10,9 +10,9 @@ De exemplu, pentru n = 5, m = 1 si secventa de 15 elemente
 avem ca fiecare element din multimea {1, 2, 3, 4, 5} apare de 3 ori, si vrem sa fie cel putin m =
 1 element distanta intre oricare doua elemente egale. Atunci, cea mai mica permutare in sens
 lexicografic, pastrand punctele fixe, este urmatoarea:
-'''
+```
 1 2 1 2 1 2 3 4 3 5 3 4 5 4 5
-'''
+```
 
 Se vor afisa la standard output, dupa caz,
 - sau permutarea, daca exista, in formatul de mai sus: elementele se vor afisa cu spatii intre ele
